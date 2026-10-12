@@ -1,0 +1,103 @@
+{
+  "firma": "Rednecks Farming",
+  "stelle": "Landschaftsgärtner (m/w/d)",
+  "ort": "Heppenheim",
+  "plz": "64646",
+  "branche": "galabau",
+  "farbe_primary": "#589133",
+  "farbe_secondary": "#94C021",
+  "region_badge": "Heppenheim & Umgebung",
+  "benefit_top": "Keine Montage mit Übernachtung",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag – in Voll- oder Teilzeit",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Hochmoderner Maschinen- und Fahrzeugpark",
+    "Hochwertige Arbeitskleidung inkl. Waschservice",
+    "Kostenübernahme für den Anhängerführerschein",
+    "Jobrad-Leasing & Getränke-Flatrate"
+  ],
+  "aufgaben": [
+    "Du führst landschaftsgärtnerische Arbeiten fachgerecht aus",
+    "Du arbeitest bei anspruchsvollen GaLaBau-Projekten an der Bergstraße mit",
+    "Du arbeitest selbstständig auf der Baustelle – im eingespielten Team"
+  ],
+  "anforderung": "Ausbildung im GaLaBau oder Erfahrung in diesem Bereich – dazu Führerschein Klasse B und Spaß an der Arbeit im Freien.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in einem anderen Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "2014",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "2019",
+        "label": "zertifizierter Fachbetrieb"
+      }
+    ],
+    "text": "Rednecks Farming ist ein Garten- und Landschaftsbaubetrieb an der Bergstraße – 2014 zu zweit gestartet, heute ein familiäres, eingespieltes Team. Seit 2019 zertifizierter Fachbetrieb und Mitglied im Fachverband GaLaBau Hessen-Thüringen e. V. Alleskönner sind wir nicht – aber wir trauen uns viel zu und lieben die Herausforderung."
+  },
+  "kunde_tab": "18 Rednecks Farming",
+  "quelle": "https://rednecks-farming.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Heppenheim"
+  },
+  "hero_bild": "img/hero-team.jpg",
+  "bilder": [
+    "img/f1-team-pflasterplatte.jpg",
+    "img/f2-pool-einheben-team.jpg",
+    "img/f3-pool-baustelle.jpg",
+    "img/f4-bagger-bergstrasse.jpg",
+    "img/f5-trockenmauer-radlader.jpg",
+    "img/f6-maschinenpark.jpg",
+    "img/f11-baumpflanzung-kran.jpg",
+    "img/f12-tieflader.jpg",
+    "img/f7-pool-fertig.jpg",
+    "img/f8-garten-stufen.jpg",
+    "img/f9-staudengarten.jpg",
+    "img/f10-holzterrasse.jpg"
+  ],
+  "video": {
+    "src": "img/video.mp4",
+    "poster": "img/poster.jpg"
+  }
+}
