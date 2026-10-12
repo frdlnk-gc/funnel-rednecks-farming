@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-robin.jpg",
+ "fokus": [
+  0.5,
+  0.4
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#589133",
+ "headline": [
+  "LANDSCHAFTS-",
+  "GÄRTNER"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Heppenheim · Bensheim · Weinheim & Umgebung"
+}

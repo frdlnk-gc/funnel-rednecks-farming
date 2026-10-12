@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-team.jpg",
+  "primary": "#589133",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#589133",
+  "kicker": "WIR SUCHEN IN HEPPENHEIM & UMGEBUNG",
+  "headline": [
+   "Landschafts-",
+   "gärtner (m/w/d)"
+  ],
+  "subline": "Unbefristet, in Voll- oder Teilzeit – keine Montage mit Übernachtung.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-trockenmauer-radlader.jpg",
+  "primary": "#589133",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN AN DER BERGSTRASSE",
+  "headline": [
+   "Landschaftsgärtner (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristet – Voll- oder Teilzeit",
+   "Keine Montage mit Übernachtung",
+   "Hochmoderner Maschinenpark"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ]
+ }
+]

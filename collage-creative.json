@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-team-pflasterplatte.jpg",
+  "img/foto-hd-bagger-bergstrasse.jpg",
+  "img/foto-hd-team.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.4
+  ],
+  [
+   0.55,
+   0.5
+  ],
+  [
+   0.5,
+   0.45
+  ]
+ ],
+ "primary": "#589133",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Landschafts-",
+  "gärtner"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Heppenheim · Bensheim · Weinheim",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
